@@ -6,7 +6,7 @@ public class BioData {
 
         System.out.println("Name : Jubair ");
         System.out.println("Id : 1711981642");
-        System.out.println("Dept : ECE");
+        System.out.println ("Dept : ECE");
 
     }
 
