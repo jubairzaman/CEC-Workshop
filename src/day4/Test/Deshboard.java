@@ -1,4 +1,4 @@
-package StudentInfo.Test;
+package day4.Test;
 
 public class Deshboard {
     public static void main(String[] args) {

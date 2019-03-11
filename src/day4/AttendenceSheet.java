@@ -1,4 +1,4 @@
-package StudentInfo;
+package day4;
 
 public class AttendenceSheet {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package StudentInfo;
+package day4;
 
 import java.util.Scanner;
 

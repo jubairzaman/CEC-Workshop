@@ -1,4 +1,4 @@
-package StudentInfo;
+package day4;
 
 public class Student {
 
@@ -6,6 +6,10 @@ public class Student {
     int Id;
     String Location;
     int Semester;
+
+    public Student() {
+
+    }
 
     @Override
     public String toString() {
